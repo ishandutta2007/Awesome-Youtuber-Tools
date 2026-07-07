@@ -40,43 +40,43 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Video Editing Tools for YouTubers
 
-- **[Kdenlive](https://github.com/KDE/kdenlive)**  
-  Professional open-source video editor with timeline editing, effects, and strong YouTube export options.
+- **[LosslessCut](https://github.com/mifi/lossless-cut)** [![GitHub stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
+  Extremely fast open-source tool for lossless cutting and trimming of YouTube footage.
 
-- **[Shotcut](https://github.com/mltframework/shotcut)**  
+- **[Blender Video Sequence Editor](https://github.com/blender/blender)** [![GitHub stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+  Powerful open-source 3D suite with a capable video editor for complex YouTube projects.
+
+- **[Shotcut](https://github.com/mltframework/shotcut)** [![GitHub stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers)  
   Cross-platform open-source editor with native timeline editing and hardware acceleration support.
 
-- **[OpenShot](https://github.com/OpenShot/openshot-qt)**  
+- **[Olive Video Editor](https://github.com/olive-editor/olive)** [![GitHub stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive/stargazers)  
+  Modern open-source non-linear video editor aiming for professional features.
+
+- **[OpenShot](https://github.com/OpenShot/openshot-qt)** [![GitHub stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social&color=white)](https://github.com/OpenShot/openshot-qt/stargazers)  
   User-friendly open-source video editor with excellent animation and title tools for YouTubers.
+
+- **[Kdenlive](https://github.com/KDE/kdenlive)** [![GitHub stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)  
+  Professional open-source video editor with timeline editing, effects, and strong YouTube export options.
+
+- **[Flowblade](https://github.com/jliljebl/flowblade)** [![GitHub stars](https://img.shields.io/github/stars/jliljebl/flowblade?style=social&color=white)](https://github.com/jliljebl/flowblade/stargazers)  
+  Fast and efficient open-source multitrack video editor designed for Linux.
+
+- **[Pitivi](https://github.com/GNOME/pitivi)** [![GitHub stars](https://img.shields.io/github/stars/GNOME/pitivi?style=social&color=white)](https://github.com/GNOME/pitivi/stargazers)  
+  GNOME-based open-source video editor with a focus on simplicity and GStreamer integration.
 
 - **[DaVinci Resolve Free Version](https://www.blackmagicdesign.com/products/davinciresolve)**  
   Industry-leading free professional editor with full color, audio, and VFX capabilities.
-
-- **[Blender Video Sequence Editor](https://github.com/blender/blender)**  
-  Powerful open-source 3D suite with a capable video editor for complex YouTube projects.
-
-- **[Flowblade](https://github.com/jliljebl/flowblade)**  
-  Fast and efficient open-source multitrack video editor designed for Linux.
-
-- **[LosslessCut](https://github.com/mifi/lossless-cut)**  
-  Extremely fast open-source tool for lossless cutting and trimming of YouTube footage.
-
-- **[Olive Video Editor](https://github.com/olive-editor/olive)**  
-  Modern open-source non-linear video editor aiming for professional features.
-
-- **[Pitivi](https://github.com/GNOME/pitivi)**  
-  GNOME-based open-source video editor with a focus on simplicity and GStreamer integration.
 
 - **[Cinelerra](https://github.com/cinelerra)** (and forks)  
   Long-standing open-source video editing and compositing software.
 
 ### Additional Strong Open-Source Options
 
-- **[Natron](https://github.com/NatronGitHub/Natron)** — Open-source compositing software for VFX in YouTube videos.
-- **[FFmpeg** scripts and GUIs for batch processing and optimization.
-- **[HandBrake](https://github.com/HandBrake/HandBrake)** — Open-source video transcoder for YouTube-ready exports.
-- **[Krita](https://github.com/KDE/krita)** with animation tools for thumbnails and motion graphics.
-- **[GIMP** with video plugins for image-based YouTube assets.
+- **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers) scripts and GUIs for batch processing and optimization.
+- **[HandBrake](https://github.com/HandBrake/HandBrake)** [![GitHub stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers) — Open-source video transcoder for YouTube-ready exports.
+- **[Krita](https://github.com/KDE/krita)** [![GitHub stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers) with animation tools for thumbnails and motion graphics.
+- **[Natron](https://github.com/NatronGitHub/Natron)** [![GitHub stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron/stargazers) — Open-source compositing software for VFX in YouTube videos.
+- **[GIMP](https://github.com/GNOME/gimp)** [![GitHub stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers) with video plugins for image-based YouTube assets.
 
 **Recommended Toolchains**: **Kdenlive** or **Shotcut** + **Blender** for complex projects + **LosslessCut** for fast trimming + **FFmpeg** for final optimization.
 
