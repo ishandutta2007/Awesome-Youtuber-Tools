@@ -1,5 +1,10 @@
 # Awesome-Youtuber-Tools
-## Top Video Editing Tools for YouTubers Ecosystem
+
+<div align="center">
+  <img src="assets/banner.svg" alt="Banner" />
+</div>
+
+## 🎥 Top Video Editing Tools for YouTubers Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on YouTube Content Creation, Editing & Production*  
@@ -13,15 +18,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📋 Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## ☁️ SaaS Products
 
-### Core Platforms (Video Editing for YouTubers)
+### 🎯 Core Platforms (Video Editing for YouTubers)
 
 | Product | Description | Pricing | Free Tier Limit | Company Size (Valuation/Revenue) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -32,13 +37,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Opus Clip](https://opus.pro/)** | AI tool that turns long videos into multiple short, viral clips optimized for YouTube and social media. | Starts at $15/mo | 60 mins/month (with watermark, expires in 3 days) | $215M Valuation |
 | **[Gling.ai](https://gling.ai/)** | AI-powered editor that automatically removes silences and creates engaging YouTube videos. | Starts at $20/mo | 1 hour/month (with watermark) | <$10M Valuation |
 
-### Advanced & Specialized Platforms
+### 🚀 Advanced & Specialized Platforms
 
 **Other notable mentions**: Filmora, HitFilm, and various AI-assisted editing tools.
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-### Dedicated Video Editing Tools for YouTubers
+### ✂️ Dedicated Video Editing Tools for YouTubers
 
 - **[LosslessCut](https://github.com/mifi/lossless-cut)** [![GitHub stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
   Extremely fast open-source tool for lossless cutting and trimming of YouTube footage.
@@ -70,7 +75,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Cinelerra](https://github.com/cinelerra)** (and forks)  
   Long-standing open-source video editing and compositing software.
 
-### Additional Strong Open-Source Options
+### 💡 Additional Strong Open-Source Options
 
 - **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers) scripts and GUIs for batch processing and optimization.
 - **[HandBrake](https://github.com/HandBrake/HandBrake)** [![GitHub stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers) — Open-source video transcoder for YouTube-ready exports.
@@ -80,7 +85,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Recommended Toolchains**: **Kdenlive** or **Shotcut** + **Blender** for complex projects + **LosslessCut** for fast trimming + **FFmpeg** for final optimization.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -89,7 +94,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Professional workflows may require specific features only available in commercial tools.
