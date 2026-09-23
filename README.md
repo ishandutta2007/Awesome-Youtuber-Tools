@@ -45,6 +45,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### 🚀 Advanced & Specialized Platforms
 
+- **[ReelWorkshop](https://reelworkshop.com)** — Browser-based compilation maker for importing clips, arranging moments, previewing edits, and exporting short-form MP4 videos.
+
 **Other notable mentions**: Filmora, HitFilm, and various AI-assisted editing tools.
 
 ## 🔓 Open-Source GitHub Projects
