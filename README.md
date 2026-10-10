@@ -45,6 +45,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### 🚀 Advanced & Specialized Platforms
 
+- **[Arcmira: YouTube Transcript Search](https://arcmira.com)**. SaaS for searching indexed YouTube transcripts and finding timestamped quotes for clip shortlists. Includes a free plan and [API and MCP access](https://arcmira.com/docs).
+
 **Other notable mentions**: Filmora, HitFilm, and various AI-assisted editing tools.
 
 ## 🔓 Open-Source GitHub Projects
