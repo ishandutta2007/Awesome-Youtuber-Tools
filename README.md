@@ -63,31 +63,31 @@ The global video editing software and creator economy tooling market is estimate
 
 ### ✂️ Dedicated Video Editing Tools for YouTubers
 
-- **[LosslessCut](https://github.com/mifi/lossless-cut)** [![GitHub stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
+- **[LosslessCut](https://github.com/mifi/lossless-cut)** [![GitHub_Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
   Extremely fast open-source tool for lossless cutting and trimming of YouTube footage.
 
-- **[Blender Video Sequence Editor](https://github.com/blender/blender)** [![GitHub stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+- **[Blender Video Sequence Editor](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
   Powerful open-source 3D suite with a capable video editor for complex YouTube projects.
 
-- **[Shotcut](https://github.com/mltframework/shotcut)** [![GitHub stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers)  
+- **[Shotcut](https://github.com/mltframework/shotcut)** [![GitHub_Stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers)  
   Cross-platform open-source editor with native timeline editing and hardware acceleration support.
 
-- **[Olive Video Editor](https://github.com/olive-editor/olive)** [![GitHub stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive/stargazers)  
+- **[Olive Video Editor](https://github.com/olive-editor/olive)** [![GitHub_Stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive/stargazers)  
   Modern open-source non-linear video editor aiming for professional features.
 
-- **[OpenShot](https://github.com/OpenShot/openshot-qt)** [![GitHub stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social&color=white)](https://github.com/OpenShot/openshot-qt/stargazers)  
+- **[OpenShot](https://github.com/OpenShot/openshot-qt)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social&color=white)](https://github.com/OpenShot/openshot-qt/stargazers)  
   User-friendly open-source video editor with excellent animation and title tools for YouTubers.
 
-- **[Kdenlive](https://github.com/KDE/kdenlive)** [![GitHub stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)  
+- **[Kdenlive](https://github.com/KDE/kdenlive)** [![GitHub_Stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)  
   Professional open-source video editor with timeline editing, effects, and strong YouTube export options.
 
-- **[Flowblade](https://github.com/jliljebl/flowblade)** [![GitHub stars](https://img.shields.io/github/stars/jliljebl/flowblade?style=social&color=white)](https://github.com/jliljebl/flowblade/stargazers)  
+- **[Flowblade](https://github.com/jliljebl/flowblade)** [![GitHub_Stars](https://img.shields.io/github/stars/jliljebl/flowblade?style=social&color=white)](https://github.com/jliljebl/flowblade/stargazers)  
   Fast and efficient open-source multitrack video editor designed for Linux.
 
-- **[Pitivi](https://github.com/GNOME/pitivi)** [![GitHub stars](https://img.shields.io/github/stars/GNOME/pitivi?style=social&color=white)](https://github.com/GNOME/pitivi/stargazers)  
+- **[Pitivi](https://github.com/GNOME/pitivi)** [![GitHub_Stars](https://img.shields.io/github/stars/GNOME/pitivi?style=social&color=white)](https://github.com/GNOME/pitivi/stargazers)  
   GNOME-based open-source video editor with a focus on simplicity and GStreamer integration.
 
-- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=social&color=white)](https://github.com/Orkas-AI/Orkas-VideoStudio/stargazers) — Local-first CLI and MCP toolkit for agent-driven video composition, editing, transcription, and captions.
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** [![GitHub_Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=social&color=white)](https://github.com/Orkas-AI/Orkas-VideoStudio/stargazers) — Local-first CLI and MCP toolkit for agent-driven video composition, editing, transcription, and captions.
 
 - **[DaVinci Resolve Free Version](https://www.blackmagicdesign.com/products/davinciresolve)**  
   Industry-leading free professional editor with full color, audio, and VFX capabilities.
@@ -97,11 +97,11 @@ The global video editing software and creator economy tooling market is estimate
 
 ### 💡 Additional Strong Open-Source Options
 
-- **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers) scripts and GUIs for batch processing and optimization.
-- **[HandBrake](https://github.com/HandBrake/HandBrake)** [![GitHub stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers) — Open-source video transcoder for YouTube-ready exports.
-- **[Krita](https://github.com/KDE/krita)** [![GitHub stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers) with animation tools for thumbnails and motion graphics.
-- **[Natron](https://github.com/NatronGitHub/Natron)** [![GitHub stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron/stargazers) — Open-source compositing software for VFX in YouTube videos.
-- **[GIMP](https://github.com/GNOME/gimp)** [![GitHub stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers) with video plugins for image-based YouTube assets.
+- **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** [![GitHub_Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers) scripts and GUIs for batch processing and optimization.
+- **[HandBrake](https://github.com/HandBrake/HandBrake)** [![GitHub_Stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers) — Open-source video transcoder for YouTube-ready exports.
+- **[Krita](https://github.com/KDE/krita)** [![GitHub_Stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers) with animation tools for thumbnails and motion graphics.
+- **[Natron](https://github.com/NatronGitHub/Natron)** [![GitHub_Stars](https://img.shields.io/github/stars/NatronGitHub/Natron?style=social&color=white)](https://github.com/NatronGitHub/Natron/stargazers) — Open-source compositing software for VFX in YouTube videos.
+- **[GIMP](https://github.com/GNOME/gimp)** [![GitHub_Stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers) with video plugins for image-based YouTube assets.
 
 **Recommended Toolchains**: **Kdenlive** or **Shotcut** + **Blender** for complex projects + **LosslessCut** for fast trimming + **FFmpeg** for final optimization.
 
@@ -135,3 +135,12 @@ Let's make high-quality video editing more accessible, powerful, and free.
 </picture>
 </a>
 </div>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Youtuber-Tools&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Youtuber-Tools_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Youtuber-Tools_growth.svg">
+  </picture>
+</a>
