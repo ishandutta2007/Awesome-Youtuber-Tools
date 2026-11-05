@@ -42,6 +42,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** | Professional-grade editor with excellent color grading, Fairlight audio, and Fusion VFX. | $295 one-time | Comprehensive tools up to 4K 60fps | ~$500M Revenue |
 | **[Opus Clip](https://opus.pro/)** | AI tool that turns long videos into multiple short, viral clips optimized for YouTube and social media. | Starts at $15/mo | 60 mins/month (with watermark, expires in 3 days) | $215M Valuation |
 | **[Gling.ai](https://gling.ai/)** | AI-powered editor that automatically removes silences and creates engaging YouTube videos. | Starts at $20/mo | 1 hour/month (with watermark) | <$10M Valuation |
+| **[Text Match Cut](https://textmatchcut.net/)** | Free online text match cut generator: type a sentence, lock one word, and export fast paper, book or typewriter cuts as MP4 or WebM in 1080p for Shorts and YouTube. | Free | Fully free, no sign-up, no watermark limits listed | Bootstrapped |
 
 ### 🚀 Advanced & Specialized Platforms
 
