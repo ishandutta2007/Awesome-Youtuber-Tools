@@ -30,6 +30,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+- [Support](#support)
 
 ## ☁️ SaaS Products
 
@@ -124,6 +125,22 @@ Star the repo if you find it useful!
 
 **Made for YouTubers, content creators, vloggers, and video editors.**  
 Let's make high-quality video editing more accessible, powerful, and free.
+
+
+## 💖 Support
+
+Thank you for checking out this project! If you found this curated list helpful for your YouTube production workflow, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to boost visibility.
+- 🍴 **Fork** and contribute your favorite creator tools and platforms.
+- 📢 **Share** this list with fellow creators, video editors, and communities.
+- ☕ **Buy me a coffee / Sponsor** the project via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) to support ongoing curation and maintenance:
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ## 🌟 Star History
 <div align="center">
