@@ -36,12 +36,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 | Product | Description | Pricing | Free Tier Limit | Company Size (Valuation/Revenue) |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Final Cut Pro](https://www.apple.com/final-cut-pro/)** | Fast and intuitive editor exclusive to macOS with Magnetic Timeline and AI tools. | $299.99 one-time (Mac) / $4.99/mo (iPad) | No free tier (90-day free trial) | ~$3T Valuation |
-| **[CapCut](https://www.capcut.com/)** | User-friendly mobile and desktop editor with strong AI features and TikTok/YouTube optimization. | $19.99/mo | Basic editing tools; Pro templates/effects restricted | ~$200B+ Valuation |
 | **[Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)** | Industry-standard video editor with powerful AI features and seamless integration with other Adobe tools. | ~$22.99/mo | No free tier (7-day free trial) | ~$87B Valuation |
-| **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** | Professional-grade editor with excellent color grading, Fairlight audio, and Fusion VFX. | $295 one-time | Comprehensive tools up to 4K 60fps | ~$500M Revenue |
+| **[Camtasia](https://www.techsmith.com/camtasia.html)** | Screen recorder and video editor designed for tutorials, how-tos, and software walkthroughs on YouTube. | ~$14.99/mo ($179.88/yr) | No free tier (14-day free trial with watermark) | ~$100M+ Revenue |
+| **[CapCut](https://www.capcut.com/)** | User-friendly mobile and desktop editor with strong AI features, auto-captions, and TikTok/YouTube optimization. | $19.99/mo | Basic editing tools; Pro templates/effects restricted | ~$200B+ Valuation |
+| **[Clipchamp](https://clipchamp.com/)** | Cloud-based video editor featuring intuitive timeline tools, royalty-free stock assets, and AI speech synthesis. | $11.99/mo | Unlimited 1080p exports without watermark; premium filters/assets restricted | ~$3T Valuation |
+| **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** | Professional-grade editor with excellent color grading, Fairlight audio, and Fusion VFX. | $295 one-time | Comprehensive tools up to 4K 60fps (no watermark) | ~$500M Revenue |
+| **[Descript](https://www.descript.com/)** | AI-driven text-based video editor offering automatic transcription, Studio Sound, and filler-word removal. | Starts at $12/mo | 1 hour/mo transcription, 720p watermark-free export | ~$550M Valuation |
+| **[Final Cut Pro](https://www.apple.com/final-cut-pro/)** | Fast and intuitive editor exclusive to macOS with Magnetic Timeline and AI tools. | $299.99 one-time (Mac) / $4.99/mo (iPad) | No free tier (90-day free trial) | ~$3T Valuation |
+| **[Gling.ai](https://gling.ai/)** | AI-powered editor that automatically removes silences and creates engaging YouTube videos. | Starts at $20/mo | 1 video export / 1 hour total (with watermark) | <$10M Valuation |
+| **[Kapwing](https://www.kapwing.com/)** | Collaborative browser-based video editor tailored for creators, subtitle generation, and clip resizing. | Starts at $16/mo | Exports up to 7 minutes (720p) with watermark; 3 subtitle exports/mo | ~$100M Valuation |
 | **[Opus Clip](https://opus.pro/)** | AI tool that turns long videos into multiple short, viral clips optimized for YouTube and social media. | Starts at $15/mo | 60 mins/month (with watermark, expires in 3 days) | $215M Valuation |
-| **[Gling.ai](https://gling.ai/)** | AI-powered editor that automatically removes silences and creates engaging YouTube videos. | Starts at $20/mo | 1 hour/month (with watermark) | <$10M Valuation |
+| **[Runway](https://runwayml.com/)** | AI creative suite providing generative video tools, motion tracking, background removal, and inpainting. | Starts at $12/user/mo | 125 one-time generation credits, 720p export | ~$1.5B Valuation |
+| **[VEED.IO](https://www.veed.io/)** | Cloud-based video suite featuring auto-subtitles, AI avatars, screen recording, and YouTube templates. | Starts at $18/mo | Exports up to 10 mins (720p) with watermark; 30 mins subtitles/mo | ~$35M+ ARR |
+| **[Wondershare Filmora](https://filmora.wondershare.com/)** | Accessible desktop video editor with AI smart cutout, audio denoiser, and rich effect libraries. | $49.99/yr or $79.99 perpetual | Full feature access, but all exports include a watermark | ~$2B Valuation |
 
 ### 🚀 Advanced & Specialized Platforms
 
