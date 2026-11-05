@@ -43,6 +43,7 @@ The global video editing software and creator economy tooling market is estimate
 | Product | Description | Pricing | Free Tier Limit | Company Size (Valuation/Revenue) |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)** | Industry-standard video editor with powerful AI features and seamless integration with other Adobe tools. | ~$22.99/mo | No free tier (7-day free trial) | ~$87B Valuation |
+| **[Arcmira](https://arcmira.com)** | Searches indexed YouTube transcripts for timestamped quotes and clip shortlists. [API and MCP docs](https://arcmira.com/docs). | Free; paid from $20/mo | 1,000 credits/month; newest 30 days withheld | Not disclosed |
 | **[Camtasia](https://www.techsmith.com/camtasia.html)** | Screen recorder and video editor designed for tutorials, how-tos, and software walkthroughs on YouTube. | ~$14.99/mo ($179.88/yr) | No free tier (14-day free trial with watermark) | ~$100M+ Revenue |
 | **[CapCut](https://www.capcut.com/)** | User-friendly mobile and desktop editor with strong AI features, auto-captions, and TikTok/YouTube optimization. | $19.99/mo | Basic editing tools; Pro templates/effects restricted | ~$200B+ Valuation |
 | **[Clipchamp](https://clipchamp.com/)** | Cloud-based video editor featuring intuitive timeline tools, royalty-free stock assets, and AI speech synthesis. | $11.99/mo | Unlimited 1080p exports without watermark; premium filters/assets restricted | ~$3T Valuation |
