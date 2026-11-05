@@ -75,6 +75,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Pitivi](https://github.com/GNOME/pitivi)** [![GitHub stars](https://img.shields.io/github/stars/GNOME/pitivi?style=social&color=white)](https://github.com/GNOME/pitivi/stargazers)  
   GNOME-based open-source video editor with a focus on simplicity and GStreamer integration.
 
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** [![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=social&color=white)](https://github.com/Orkas-AI/Orkas-VideoStudio/stargazers) — Local-first CLI and MCP toolkit for agent-driven video composition, editing, transcription, and captions.
+
 - **[DaVinci Resolve Free Version](https://www.blackmagicdesign.com/products/davinciresolve)**  
   Industry-leading free professional editor with full color, audio, and VFX capabilities.
 
