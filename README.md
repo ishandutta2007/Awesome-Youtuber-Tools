@@ -25,12 +25,17 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## 📋 Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
 ## ☁️ SaaS Products
+
+### 📊 Sector Overview & Market Dynamics
+
+The global video editing software and creator economy tooling market is estimated at **$3.5B–$5.2B+ in 2026** (projected to reach over $7B by 2030 at ~6–8% CAGR). The sector exhibits **moderate fragmentation with a bifurcated dynamic**: legacy desktop NLE suites remain heavily concentrated among category giants (Adobe, Apple, and Blackmagic Design), while the rapid emergence of browser-first, text-based, and AI repurposing tools (such as CapCut, Descript, and Opus Clip) has introduced high fragmentation and niche specialization across creator workflows.
 
 ### 🎯 Core Platforms (Video Editing for YouTubers)
 
