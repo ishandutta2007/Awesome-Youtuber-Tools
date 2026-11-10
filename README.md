@@ -54,6 +54,7 @@ The global video editing software and creator economy tooling market is estimate
 | **[Opus Clip](https://opus.pro/)** | AI tool that turns long videos into multiple short, viral clips optimized for YouTube and social media. | Starts at $15/mo | 60 mins/month (with watermark, expires in 3 days) | $215M Valuation |
 | **[Runway](https://runwayml.com/)** | AI creative suite providing generative video tools, motion tracking, background removal, and inpainting. | Starts at $12/user/mo | 125 one-time generation credits, 720p export | ~$1.5B Valuation |
 | **[VEED.IO](https://www.veed.io/)** | Cloud-based video suite featuring auto-subtitles, AI avatars, screen recording, and YouTube templates. | Starts at $18/mo | Exports up to 10 mins (720p) with watermark; 30 mins subtitles/mo | ~$35M+ ARR |
+| **[Vidmoat](https://www.vidmoat.com/)** | Hosted AI video editor: describe the edit in chat, review it on a real multi-track timeline, and render MP4. Auto-captions, silence and filler-word removal, and auto-reframe for YouTube, Shorts, Reels and TikTok. | Free plan; Creator $19/mo; Studio $49/mo | Free Hobby plan with no card: 3 projects, 720p exports with a small watermark, monthly AI credit allowance | Pre-revenue startup (Buzz Innovations Ltd) |
 | **[Wondershare Filmora](https://filmora.wondershare.com/)** | Accessible desktop video editor with AI smart cutout, audio denoiser, and rich effect libraries. | $49.99/yr or $79.99 perpetual | Full feature access, but all exports include a watermark | ~$2B Valuation |
 
 ### 🚀 Advanced & Specialized Platforms
