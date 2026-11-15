@@ -90,6 +90,9 @@ The global video editing software and creator economy tooling market is estimate
 
 - **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** [![GitHub_Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=social&color=white)](https://github.com/Orkas-AI/Orkas-VideoStudio/stargazers) — Local-first CLI and MCP toolkit for agent-driven video composition, editing, transcription, and captions.
 
+- **[Clips Kitty](https://github.com/ColinGPT9/clips-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/ColinGPT9/clips-studio?style=social&color=white)](https://github.com/ColinGPT9/clips-studio/stargazers)  
+  Open-source Windows app that cuts long YouTube videos and Twitch or Kick streams into captioned 9:16 Shorts with AI on your own PC, keeping the speaker in frame.
+
 - **[DaVinci Resolve Free Version](https://www.blackmagicdesign.com/products/davinciresolve)**  
   Industry-leading free professional editor with full color, audio, and VFX capabilities.
 
