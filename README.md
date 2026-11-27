@@ -90,6 +90,8 @@ The global video editing software and creator economy tooling market is estimate
 
 - **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** [![GitHub_Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=social&color=white)](https://github.com/Orkas-AI/Orkas-VideoStudio/stargazers) — Local-first CLI and MCP toolkit for agent-driven video composition, editing, transcription, and captions.
 
+- **[ReelStyles Free](https://github.com/reelstyles/reelstyles-free)** [![GitHub_Stars](https://img.shields.io/github/stars/reelstyles/reelstyles-free?style=social&color=white)](https://github.com/reelstyles/reelstyles-free/stargazers) — Film-style kits a coding agent (Claude Code, Codex or Cursor) reads, then animates a video in code and renders an MP4 on your computer with HyperFrames.
+
 - **[DaVinci Resolve Free Version](https://www.blackmagicdesign.com/products/davinciresolve)**  
   Industry-leading free professional editor with full color, audio, and VFX capabilities.
 
